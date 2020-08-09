@@ -30,7 +30,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />]
 <br />
 <br />
@@ -40,13 +40,7 @@
 <img align="left" alt="Alex Zhao's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=azhao8922&show_icons=true&hide_border=true" />
 
 [website]: https://azhao8922.github.io/alexzhao/
-<!-- <!-- [twitter]: https://twitter.com/codeSTACKr --> -->
-<!-- <!-- [youtube]: https://youtube.com/codeSTACKr --> -->
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/alexanderqzhao
 [watchbuddy]: https://watchbuddybeta.herokuapp.com/buddies
 [resume]: https://azhao8922.github.io/alexzhao/Alexander_Zhao_2020_Resume.pdf
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
