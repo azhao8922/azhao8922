@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex - [check me out!][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a software engineer & a data transfer consultant!
 - 🔭 I’m currently working on a [webapp for hosting Watch Parties][watchbuddy]!
 - 🌱 I’m currently learning more about GraphQL versus RESTful APIs
 - 👯 I’m looking for full-time and internship oppurtunities - [Resume][resume]
